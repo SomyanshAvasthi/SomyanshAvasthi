@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somyansh Avasthi</h1>
 <h3 align="center">A passionate software engineer from India.</h3>
 
-<img align="right" alt="coding" width="width" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGc3ZGFwWnpGWlZoMEtXaFFiZWlEUUx1dmtaUXxBQ3Jtc0ttNzN0OWh5d0ZRUUhMRXBXSWZEbzBSUlIzN3dVX2U0YXJ6VkxMaU83b2J5QkpaNmZuajd3VEJGS1k3VDhsTF9NSWFTR2lHVFR0RjNaYkJuZkI5UXJBMUxLX3kyZlZTRE9oZXppVkxZZUdhSk85bU5qcw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyanshavasthi&label=Profile%20views&color=0e75b6&style=flat" alt="somyanshavasthi" /> </p>
 
 - 🌱 I’m currently learning **Artificial Intelligence and web development.**
