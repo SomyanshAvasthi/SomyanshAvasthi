@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Somyansh Avasthi</h1>
+<h3 align="center">A passionate software engineer from India.</h3>
 
-<!--
-**SomyanshAvasthi/SomyanshAvasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="width" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGc3ZGFwWnpGWlZoMEtXaFFiZWlEUUx1dmtaUXxBQ3Jtc0ttNzN0OWh5d0ZRUUhMRXBXSWZEbzBSUlIzN3dVX2U0YXJ6VkxMaU83b2J5QkpaNmZuajd3VEJGS1k3VDhsTF9NSWFTR2lHVFR0RjNaYkJuZkI5UXJBMUxLX3kyZlZTRE9oZXppVkxZZUdhSk85bU5qcw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=somyanshavasthi&label=Profile%20views&color=0e75b6&style=flat" alt="somyanshavasthi" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Artificial Intelligence and web development.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **avasthisomyansh@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bLFmAsdTiA24Qt0mx5iJ_-7N4BkJhmPr/view?usp=share_link](https://drive.google.com/file/d/1bLFmAsdTiA24Qt0mx5iJ_-7N4BkJhmPr/view?usp=share_link)
+
+- ⚡ Fun fact **I am also a foody!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/somyansh-avasthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somyansh avasthi" height="30" width="40" /></a>
+<a href="https://instagram.com/somyansh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somyansh__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/somyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somyansh" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somyanshavasthi&show_icons=true&locale=en&layout=compact" alt="somyanshavasthi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somyanshavasthi&show_icons=true&locale=en" alt="somyanshavasthi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somyanshavasthi&" alt="somyanshavasthi" /></p>
