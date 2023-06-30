@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **avasthisomyansh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bLFmAsdTiA24Qt0mx5iJ_-7N4BkJhmPr/view?usp=share_link](https://drive.google.com/file/d/1bLFmAsdTiA24Qt0mx5iJ_-7N4BkJhmPr/view?usp=share_link)
-
 - ⚡ Fun fact **I am also a foody!**
 
 <h3 align="left">Connect with me:</h3>
