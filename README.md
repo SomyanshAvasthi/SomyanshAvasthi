@@ -11,5 +11,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/somyansh-avasthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somyansh avasthi" height="30" width="40" /></a>
 <a href="https://instagram.com/somyansh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="somyansh__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/somyansh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somyansh" height="30" width="40" /></a>
+
 </p>
