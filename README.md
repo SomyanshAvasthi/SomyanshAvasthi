@@ -5,7 +5,7 @@
 
 - 🌱 I’m **Machine learning, data science and web development enthusiast.**
 
-- 📫 How to reach me **avasthisomyansh@gmail.com**
+- 📫 How to reach me - **avasthisomyansh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
