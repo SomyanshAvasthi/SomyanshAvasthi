@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somyanshavasthi&label=Profile%20views&color=0e75b6&style=flat" alt="somyanshavasthi" /> </p>
 
-- 🌱 I’m **Machine learning, data science and web development enthusiast.**
+- 🌱 I’m **Machine learning, data science and data engineering enthusiast.**
 
 - 📫 How to reach me - **avasthisomyansh@gmail.com**
 
